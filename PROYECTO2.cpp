@@ -64,9 +64,8 @@ void Proyecto::menu(){
 
 void Proyecto::registrar(){
 	system("cls");
-	cout<<verde<<("NUEVO REGISTRO DE PACIENTE \n")<<verde;
-	
-	
+	cout<<verde<<("NUEVO REGISTRO DE PACIENTE \n")<<blanco;
+	cout<<"Ingrese Nombre del paciente: ";
 	
 }
 void Proyecto::caratula(){
